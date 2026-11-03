@@ -1,0 +1,25 @@
+{
+  "name": "testsampleforgerodiaspt",
+  "version": "1.0.0",
+  "description": "- Node.js & Git installed\r - Supabase CLI installed (`npm install -g supabase`)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenAborde17/testSampleForGerodiasPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/StevenAborde17/testSampleForGerodiasPT/issues"
+  },
+  "homepage": "https://github.com/StevenAborde17/testSampleForGerodiasPT#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "dotenv": "^18.0.9"
+  }
+}
