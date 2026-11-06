@@ -4,6 +4,7 @@
   "description": "- Node.js & Git installed\r - Supabase CLI installed (`npm install -g supabase`)",
   "main": "index.js",
   "scripts": {
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,8 @@
   },
   "homepage": "https://github.com/StevenAborde17/testSampleForGerodiasPT#readme",
   "dependencies": {
-    "@supabase/supabase-js": "^2.118.0",
-    "dotenv": "^18.0.9"
+    "@supabase/supabase-js": "^2.119.0",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0"
   }
 }
